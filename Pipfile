@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 pytz = "==2019.3"
-Django = "==1.11.24"
+Django = "==1.11.28"
 
 [requires]
 python_version = "2.7"
